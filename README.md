@@ -32,7 +32,7 @@ This project analyzes global COVID-19 data with a focus on confirmed cases, deat
 - Vaccination campaigns in developed countries led to rapid rollouts compared to developing nations.
 
 ## 📬 Contact
-For inquiries or suggestions: [your-email@example.com]
+For inquiries or suggestions: petrusfestus78@gmail.com
 
 ---
 
